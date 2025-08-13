@@ -1,1 +1,1 @@
-# basic-navigation-example-2025-08
+A basic example of multi-page navigation with HTML.
